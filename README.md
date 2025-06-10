@@ -69,11 +69,3 @@ Evaluation via rubrics and expert answers
 
 Debugging Panel layout, API response errors, and JSON formatting issues
 
-🔧 Next Steps
-Clean and modularize the code into functions and scripts.
-
-Add logging and better error handling.
-
-Add BLEU score / ROUGE / F1 as another evaluation metric.
-
-Deploy a simplified version using Streamlit or Flask for demo.
